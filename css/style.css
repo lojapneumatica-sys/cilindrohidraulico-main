@@ -618,13 +618,13 @@ a:hover {
 
 /* imagem padrão (desktop) */
 .banner-img {
-    content: url('../img/bannerCilindro.png');
+    content: url('../img/Desktoksite.png');
 }
 
 /* troca no mobile */
 @media (max-width: 768px) {
     .banner-img {
-        content: url('../img/viawhatsapp.png');
+        content: url('../img/Mobilesite.png');
     }
 }
 
